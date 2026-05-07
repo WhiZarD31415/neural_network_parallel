@@ -1,0 +1,8 @@
+./nnp train
+Epoch 0, Loss=0.2438
+Epoch 1, Loss=0.0931
+Epoch 2, Loss=0.0619
+Epoch 3, Loss=0.0456
+Epoch 4, Loss=0.0375
+Trained model in 1360 seconds
+
